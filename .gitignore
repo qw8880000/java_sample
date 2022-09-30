@@ -1,0 +1,8 @@
+l_video_download/.idea/
+l_video_download/logs/
+l_video_download/video_output/
+l_video_download/target/
+
+spider/.idea/
+spider/logs/
+spider/target/
